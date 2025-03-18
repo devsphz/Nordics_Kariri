@@ -16,7 +16,8 @@ Venha conhecer o melhor criador de Samoieda no Brasil!
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Captura de tela_18-3-2025_125231_www nordicskariri com br](https://github.com/user-attachments/assets/b903f547-f531-4f34-acca-3f444ffa6a12)
+
 
 
 ## Licença
